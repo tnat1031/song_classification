@@ -1,5 +1,7 @@
 # Overview
 
+What I'm hoping will be a fun little side project.
+
 Using the lyrics data of the Million Song Dataset (MSD) generously provided by musiXmatch, develop an algorithm to classify songs into appropriate genres based only on their lyrics.
 
 
