@@ -1,5 +1,6 @@
-data/*
+data/WORD_COUNTS_TRAIN.txt
+data/src/*
+data/*.tar.gz
 
 output/*
 
-models/WORD_COUNTS_TRAIN.txt
