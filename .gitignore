@@ -1,6 +1,9 @@
 data/WORD_COUNTS_TRAIN.txt
 data/src/*
 data/*.tar.gz
+data/train_split/*
+
+models/*
 
 output/*
 
